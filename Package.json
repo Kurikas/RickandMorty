@@ -1,5 +1,5 @@
 {
-    "name": "learnwebpack",
+    "name": "RickanMorty",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,7 +8,7 @@
       "dev": "webpack --mode development",
       "build": "webpack --mode production",
       "start": "webpack serve --mode development",
-      "deploy": "npm run build && surge ./dist RickandMorty.surge.sh"
+      "deploy": "npm run build && surge ./dist mm22ramhjs.surge.sh"
     },
     "keywords": [],
     "author": "",
